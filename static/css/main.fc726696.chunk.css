@@ -1,0 +1,2 @@
+.searchbar{margin-top:10px}.video-screen{display:grid;grid-template-columns:65% 30%;-webkit-justify-content:center;justify-content:center;grid-gap:2rem}@media only screen and (max-width:1000px){.video-screen{display:block}}.single-video{display:-webkit-flex;display:flex}.video-image{width:15rem;margin-right:2rem}.video-header{display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center;font-size:1.2rem;color:#8a2be2}
+/*# sourceMappingURL=main.fc726696.chunk.css.map */
