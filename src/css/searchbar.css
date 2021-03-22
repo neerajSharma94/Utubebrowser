@@ -1,0 +1,32 @@
+.searchbar{
+    margin-top: 10px;
+}
+
+.video-screen{
+    display: grid;
+    grid-template-columns: 65% 30%;
+    justify-content: center;
+    grid-gap: 2rem;
+
+}
+@media only screen and (max-width: 1000px){
+    .video-screen{
+        display: block;
+    }
+}
+
+.single-video{
+    display: flex;
+}
+
+.video-image{
+    width: 15rem;
+    margin-right: 2rem;
+}
+.video-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    color: blueviolet;
+}
