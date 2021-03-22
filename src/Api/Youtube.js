@@ -8,6 +8,6 @@ export default axios.create({
         maxResults: 8,
         key: KEY,
     }
-})
+});
 
 
